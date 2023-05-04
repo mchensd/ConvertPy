@@ -7,5 +7,3 @@ python3 Convert.py
 ```
 
 Experiment by modifying constants.
-
-More information:
