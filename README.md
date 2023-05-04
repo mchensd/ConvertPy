@@ -3,7 +3,7 @@ Senior project code for modeling religious conversion, based on Lewis R. Rambo's
 
 To run:
 ```
-python3 
+python3 Convert.py
 ```
 
 Experiment by modifying constants.
