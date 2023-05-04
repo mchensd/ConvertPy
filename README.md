@@ -5,3 +5,7 @@ To run:
 ```
 python3 
 ```
+
+Experiment by modifying constants.
+
+More information:
